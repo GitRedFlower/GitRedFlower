@@ -2,7 +2,7 @@
 
 <h3>Current Projects</h3>
 
-<p>Pride Craft (Minecraft Mod)</p>
+<p><a href="https://github.com/GitRedFlower/Pride-Craft">Pride Craft</a> (Minecraft Mod)</p>
 
 <h3>Future Projects</h3>
 
