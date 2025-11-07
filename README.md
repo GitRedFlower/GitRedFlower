@@ -4,7 +4,7 @@
 
 <p><a href="https://github.com/GitRedFlower/Pride-Craft">Pride Craft</a> (Minecraft Mod)</p>
 
-<h3>Future Projects</h3>
+<h3>Upcoming Projects</h3>
 
 <p>Verse (Minecraft mod)</p>
 
@@ -12,5 +12,6 @@
 
 <ul>
   <li>Java (2 Years)</li>
+  <li>Javascript (2 Years)</li>
 </ul>
 
