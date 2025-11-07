@@ -6,11 +6,11 @@
 
 <h3>Future Projects</h3>
 
-<p>None</p>
+<p>Verse (Minecraft mod)</p>
 
 <h3>Experience In Languages</h3>
 
 <ul>
-  <li></li>
+  <li>Java (2 Years)</li>
 </ul>
 
