@@ -6,7 +6,7 @@
 
 <h3>Upcoming Projects</h3>
 
-<p>Verse (Minecraft mod)</p>
+<p>Verse (Minecraft Mod)</p>
 
 <h3>Experience In Languages</h3>
 
