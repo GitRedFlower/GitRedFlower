@@ -3,10 +3,9 @@
 <h3>Current Projects</h3>
 
 <p><a href="https://github.com/GitRedFlower/Pride-Craft">Pride Craft</a> (Minecraft Mod)</p>
+<p><a href="https://github.com/GitRedFlower/Verse">Verse</a> (Minecraft Mod)</p>
 
 <h3>Upcoming Projects</h3>
-
-<p>Verse (Minecraft Mod)</p>
 
 <h3>Experience In Languages</h3>
 
